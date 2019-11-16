@@ -1,0 +1,8 @@
+C:\Users\logonrmlocal\source\repos\microservicos\GeekBurger.Production\GeekBurger.Production.Contract\bin\Debug\netcoreapp2.2\GeekBurger.Productions.Contract.deps.json
+C:\Users\logonrmlocal\source\repos\microservicos\GeekBurger.Production\GeekBurger.Production.Contract\bin\Debug\netcoreapp2.2\GeekBurger.Productions.Contract.dll
+C:\Users\logonrmlocal\source\repos\microservicos\GeekBurger.Production\GeekBurger.Production.Contract\bin\Debug\netcoreapp2.2\GeekBurger.Productions.Contract.pdb
+C:\Users\logonrmlocal\source\repos\microservicos\GeekBurger.Production\GeekBurger.Production.Contract\obj\Debug\netcoreapp2.2\GeekBurger.Productions.Contract.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\source\repos\microservicos\GeekBurger.Production\GeekBurger.Production.Contract\obj\Debug\netcoreapp2.2\GeekBurger.Productions.Contract.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\source\repos\microservicos\GeekBurger.Production\GeekBurger.Production.Contract\obj\Debug\netcoreapp2.2\GeekBurger.Productions.Contract.AssemblyInfo.cs
+C:\Users\logonrmlocal\source\repos\microservicos\GeekBurger.Production\GeekBurger.Production.Contract\obj\Debug\netcoreapp2.2\GeekBurger.Productions.Contract.dll
+C:\Users\logonrmlocal\source\repos\microservicos\GeekBurger.Production\GeekBurger.Production.Contract\obj\Debug\netcoreapp2.2\GeekBurger.Productions.Contract.pdb
