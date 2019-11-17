@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace GeekBurger.Production.Contracts
+namespace GeekBurger.Productions.Contracts
 {
     public class ProductionChangedMessage
     {

@@ -8,7 +8,10 @@ namespace GeekBurger.Productions.Models
     {
         [Key]
         public Guid ProductionId { get; set; }
-        public List<string> Restrictions { get; set; }
+        public string Restrictions { get; set; }
+
+        //public ICollection<string> Restrictions { get; set; } 
+        //      = new List<string>();
         public bool On { get; set; }
     }
 }
